@@ -1,5 +1,7 @@
 #!/bin/bash
-# Bashery
+#
+# FUNCTIONS COLLECTION
+#
 
 sysinfo="$(uname -a)"
 echo -e "\n~ bash! bash! \e[33;01m*clink*\e[0m ... BASH!!\n"
